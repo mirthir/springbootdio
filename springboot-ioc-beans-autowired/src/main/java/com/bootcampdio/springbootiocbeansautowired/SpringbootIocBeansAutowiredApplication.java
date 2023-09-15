@@ -20,7 +20,6 @@ public class SpringbootIocBeansAutowiredApplication {
 			System.out.println("Dados do CEP: " + response);
         };
 
-
 	}
 
 }
